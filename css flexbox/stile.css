@@ -1,0 +1,40 @@
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+
+}
+header{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-center;
+  width: 100%;
+}
+
+.stulpeliams1{
+  flex-direction:column;
+}
+.stulpeliams2{
+  flex-direction: column;
+}
+.top{
+  background-color: #e6b3cc;
+}
+.hero{
+  background-color: #993366;
+}
+.maincontent{
+  background-color: #99ccff;
+}
+.extracontent{
+  background-color: #8585ad;
+}
+.relatedimages{
+  background-color: #94b8b8;
+
+}
+.relatedposts{
+  background-color: #4d9900;
+}
+.below{
+  background-color: #804000;
+}
